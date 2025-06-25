@@ -27,10 +27,10 @@ All files in this repository are original and created as part of my academic wor
 Project One: Business Requirements Document
 Project Two: System Design Document
 
-#Overview
+# Overview
 This portfolio submission highlights my ability to analyze a business need and design a suitable software solution. These documents demonstrate key skills in requirement gathering, user-centered design, and system modeling.
 
-##DriverPass Project Summary
+## DriverPass Project Summary
 The DriverPass project was centered around designing a cloud-based system for a fictional company that provides driving instruction through online and in-person services. The client, DriverPass, needed a system to streamline and support various services including scheduling classroom sessions, administering online tests, managing behind-the-wheel lessons, tracking student progress, and processing payments.
 
 My role was to gather the business requirements from the client and create a full system design that would meet those needs in a scalable, user-friendly, and efficient way.
